@@ -1,1 +1,0 @@
-print("eraaa gandu")
